@@ -8,6 +8,7 @@ public class Texture2D : IDisposable
 
         public Texture2D(string path)
         {
+            path = Path.Combine(AppContext.BaseDirectory, path);
             if (!File.Exists(path))
                 throw new FileNotFoundException($"Texture file not found: {path}");
 

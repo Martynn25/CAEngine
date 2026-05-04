@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marti\\Documents\\GitHub\\CAEngine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F772B52-6B12-4E7F-A29C-D4D621CE8DE8}|CAEngine\\CAEngine.csproj|c:\\users\\marti\\documents\\github\\caengine\\caengine\\platform\\cagame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F772B52-6B12-4E7F-A29C-D4D621CE8DE8}|CAEngine\\CAEngine.csproj|solutionrelative:caengine\\platform\\cagame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F772B52-6B12-4E7F-A29C-D4D621CE8DE8}|CAEngine\\CAEngine.csproj|c:\\users\\marti\\documents\\github\\caengine\\caengine\\rendering\\basicshaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F772B52-6B12-4E7F-A29C-D4D621CE8DE8}|CAEngine\\CAEngine.csproj|solutionrelative:caengine\\rendering\\basicshaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F772B52-6B12-4E7F-A29C-D4D621CE8DE8}|CAEngine\\CAEngine.csproj|c:\\users\\marti\\documents\\github\\caengine\\caengine\\rendering\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F772B52-6B12-4E7F-A29C-D4D621CE8DE8}|CAEngine\\CAEngine.csproj|solutionrelative:caengine\\rendering\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F772B52-6B12-4E7F-A29C-D4D621CE8DE8}|CAEngine\\CAEngine.csproj|c:\\users\\marti\\documents\\github\\caengine\\caengine\\rendering\\shapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F772B52-6B12-4E7F-A29C-D4D621CE8DE8}|CAEngine\\CAEngine.csproj|solutionrelative:caengine\\rendering\\shapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F772B52-6B12-4E7F-A29C-D4D621CE8DE8}|CAEngine\\CAEngine.csproj|c:\\users\\marti\\documents\\github\\caengine\\caengine\\rendering\\uvregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F772B52-6B12-4E7F-A29C-D4D621CE8DE8}|CAEngine\\CAEngine.csproj|solutionrelative:caengine\\rendering\\uvregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F772B52-6B12-4E7F-A29C-D4D621CE8DE8}|CAEngine\\CAEngine.csproj|c:\\users\\marti\\documents\\github\\caengine\\caengine\\rendering\\vertex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F772B52-6B12-4E7F-A29C-D4D621CE8DE8}|CAEngine\\CAEngine.csproj|solutionrelative:caengine\\rendering\\vertex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F772B52-6B12-4E7F-A29C-D4D621CE8DE8}|CAEngine\\CAEngine.csproj|c:\\users\\marti\\documents\\github\\caengine\\caengine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F772B52-6B12-4E7F-A29C-D4D621CE8DE8}|CAEngine\\CAEngine.csproj|solutionrelative:caengine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F772B52-6B12-4E7F-A29C-D4D621CE8DE8}|CAEngine\\CAEngine.csproj|c:\\users\\marti\\documents\\github\\caengine\\caengine\\core\\tilemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F772B52-6B12-4E7F-A29C-D4D621CE8DE8}|CAEngine\\CAEngine.csproj|solutionrelative:caengine\\core\\tilemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F772B52-6B12-4E7F-A29C-D4D621CE8DE8}|CAEngine\\CAEngine.csproj|c:\\users\\marti\\documents\\github\\caengine\\caengine\\rendering\\renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F772B52-6B12-4E7F-A29C-D4D621CE8DE8}|CAEngine\\CAEngine.csproj|solutionrelative:caengine\\rendering\\renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F772B52-6B12-4E7F-A29C-D4D621CE8DE8}|CAEngine\\CAEngine.csproj|c:\\users\\marti\\documents\\github\\caengine\\caengine\\rendering\\mesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F772B52-6B12-4E7F-A29C-D4D621CE8DE8}|CAEngine\\CAEngine.csproj|solutionrelative:caengine\\rendering\\mesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F772B52-6B12-4E7F-A29C-D4D621CE8DE8}|CAEngine\\CAEngine.csproj|c:\\users\\marti\\documents\\github\\caengine\\caengine\\rendering\\texture2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F772B52-6B12-4E7F-A29C-D4D621CE8DE8}|CAEngine\\CAEngine.csproj|solutionrelative:caengine\\rendering\\texture2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CAGame.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Documents\\GitHub\\CAEngine\\CAEngine\\Platform\\CAGame.cs",
+              "RelativeDocumentMoniker": "CAEngine\\Platform\\CAGame.cs",
+              "ToolTip": "C:\\Users\\marti\\Documents\\GitHub\\CAEngine\\CAEngine\\Platform\\CAGame.cs",
+              "RelativeToolTip": "CAEngine\\Platform\\CAGame.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwDUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:59:17.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasicShaders.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Documents\\GitHub\\CAEngine\\CAEngine\\Rendering\\BasicShaders.cs",
+              "RelativeDocumentMoniker": "CAEngine\\Rendering\\BasicShaders.cs",
+              "ToolTip": "C:\\Users\\marti\\Documents\\GitHub\\CAEngine\\CAEngine\\Rendering\\BasicShaders.cs",
+              "RelativeToolTip": "CAEngine\\Rendering\\BasicShaders.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:59:13.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shader.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Documents\\GitHub\\CAEngine\\CAEngine\\Rendering\\Shader.cs",
+              "RelativeDocumentMoniker": "CAEngine\\Rendering\\Shader.cs",
+              "ToolTip": "C:\\Users\\marti\\Documents\\GitHub\\CAEngine\\CAEngine\\Rendering\\Shader.cs",
+              "RelativeToolTip": "CAEngine\\Rendering\\Shader.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:59:03.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shapes.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Documents\\GitHub\\CAEngine\\CAEngine\\Rendering\\Shapes.cs",
+              "RelativeDocumentMoniker": "CAEngine\\Rendering\\Shapes.cs",
+              "ToolTip": "C:\\Users\\marti\\Documents\\GitHub\\CAEngine\\CAEngine\\Rendering\\Shapes.cs",
+              "RelativeToolTip": "CAEngine\\Rendering\\Shapes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:58:59.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UvRegion.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Documents\\GitHub\\CAEngine\\CAEngine\\Rendering\\UvRegion.cs",
+              "RelativeDocumentMoniker": "CAEngine\\Rendering\\UvRegion.cs",
+              "ToolTip": "C:\\Users\\marti\\Documents\\GitHub\\CAEngine\\CAEngine\\Rendering\\UvRegion.cs",
+              "RelativeToolTip": "CAEngine\\Rendering\\UvRegion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:58:56.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vertex.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Documents\\GitHub\\CAEngine\\CAEngine\\Rendering\\Vertex.cs",
+              "RelativeDocumentMoniker": "CAEngine\\Rendering\\Vertex.cs",
+              "ToolTip": "C:\\Users\\marti\\Documents\\GitHub\\CAEngine\\CAEngine\\Rendering\\Vertex.cs",
+              "RelativeToolTip": "CAEngine\\Rendering\\Vertex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:58:55.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Documents\\GitHub\\CAEngine\\CAEngine\\Program.cs",
+              "RelativeDocumentMoniker": "CAEngine\\Program.cs",
+              "ToolTip": "C:\\Users\\marti\\Documents\\GitHub\\CAEngine\\CAEngine\\Program.cs",
+              "RelativeToolTip": "CAEngine\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:58:48.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Renderer.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Documents\\GitHub\\CAEngine\\CAEngine\\Rendering\\Renderer.cs",
+              "RelativeDocumentMoniker": "CAEngine\\Rendering\\Renderer.cs",
+              "ToolTip": "C:\\Users\\marti\\Documents\\GitHub\\CAEngine\\CAEngine\\Rendering\\Renderer.cs",
+              "RelativeToolTip": "CAEngine\\Rendering\\Renderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:49:31.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Mesh.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Documents\\GitHub\\CAEngine\\CAEngine\\Rendering\\Mesh.cs",
+              "RelativeDocumentMoniker": "CAEngine\\Rendering\\Mesh.cs",
+              "ToolTip": "C:\\Users\\marti\\Documents\\GitHub\\CAEngine\\CAEngine\\Rendering\\Mesh.cs",
+              "RelativeToolTip": "CAEngine\\Rendering\\Mesh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:49:13.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TileMap.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Documents\\GitHub\\CAEngine\\CAEngine\\Core\\TileMap.cs",
+              "RelativeDocumentMoniker": "CAEngine\\Core\\TileMap.cs",
+              "ToolTip": "C:\\Users\\marti\\Documents\\GitHub\\CAEngine\\CAEngine\\Core\\TileMap.cs",
+              "RelativeToolTip": "CAEngine\\Core\\TileMap.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwCsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:49:00.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Texture2D.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Documents\\GitHub\\CAEngine\\CAEngine\\Rendering\\Texture2D.cs",
+              "RelativeDocumentMoniker": "CAEngine\\Rendering\\Texture2D.cs",
+              "ToolTip": "C:\\Users\\marti\\Documents\\GitHub\\CAEngine\\CAEngine\\Rendering\\Texture2D.cs",
+              "RelativeToolTip": "CAEngine\\Rendering\\Texture2D.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:48:32.831Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

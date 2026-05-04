@@ -8,7 +8,16 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Assets\Textures\" />
+      <None Remove="Assets\Textures\tile.png" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Include="Assets\Textures\tile.png">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+    </ItemGroup>
+
+    <ItemGroup>
       <Folder Include="Scene\" />
     </ItemGroup>
 
